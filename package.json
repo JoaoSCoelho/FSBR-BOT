@@ -4,8 +4,8 @@
   "description": "Bot direcionado para executar tarefas dentro do servidor Farming Simulator BR",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./index.js",
-    "start": "node ./index.js"
+    "dev": "nodemon ./dev.js",
+    "start": "node ./start.js"
   },
   "repository": {
     "type": "git",
