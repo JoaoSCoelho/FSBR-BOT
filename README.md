@@ -1,2 +1,2 @@
-# new-holland-t8
- Trator de funcionalidades
+# FSBR BOT
+ Bot direcionado para executar tarefas dentro do servidor Farming Simulator BR
