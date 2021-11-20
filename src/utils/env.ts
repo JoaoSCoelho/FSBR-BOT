@@ -1,4 +1,8 @@
-import 'dotenv/config'
+import { config } from 'dotenv'
+
+config({
+  path: 'prod.env',
+})
 
 interface IEnv {
   PREFIX: string
